@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>0006HNOYOBL0866B-C431.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/0006HNOYOBL0866B-C431.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>28</ymin>
+			<xmax>778</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

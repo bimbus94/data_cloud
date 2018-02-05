@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>Żubr-DinoAnimals.pl-1.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/Żubr-DinoAnimals.pl-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>588</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>28</ymin>
+			<xmax>576</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>z15278766V,Zubrzyce.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/z15278766V,Zubrzyce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>40</ymin>
+			<xmax>616</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>zubr-w-zaroslach.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/zubr-w-zaroslach.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>78</ymin>
+			<xmax>600</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

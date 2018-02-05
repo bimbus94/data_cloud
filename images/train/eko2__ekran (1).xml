@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>eko2__ekran (1).jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/eko2__ekran (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>38</ymin>
+			<xmax>956</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+</annotation>

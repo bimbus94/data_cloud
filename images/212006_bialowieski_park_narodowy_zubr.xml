@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>212006_bialowieski_park_narodowy_zubr.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/212006_bialowieski_park_narodowy_zubr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>317</ymin>
+			<xmax>1679</xmax>
+			<ymax>1184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>present-day-bison.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/present-day-bison.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>58</ymin>
+			<xmax>454</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

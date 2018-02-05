@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>Zubry_podbijaja_internet_6046274.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/Zubry_podbijaja_internet_6046274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>25</ymin>
+			<xmax>254</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

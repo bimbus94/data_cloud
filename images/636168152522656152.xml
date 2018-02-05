@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>636168152522656152.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/636168152522656152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>12</ymin>
+			<xmax>717</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+</annotation>

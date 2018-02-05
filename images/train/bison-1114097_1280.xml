@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>bison-1114097_1280.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/bison-1114097_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>62</ymin>
+			<xmax>684</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

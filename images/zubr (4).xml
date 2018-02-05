@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>zubr (4).jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/zubr (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>165</ymin>
+			<xmax>580</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>1200px-Żubr_w_Białowieskim_Parku_Narodowym_06.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/1200px-Żubr_w_Białowieskim_Parku_Narodowym_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>174</ymin>
+			<xmax>964</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

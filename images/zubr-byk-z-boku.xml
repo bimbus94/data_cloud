@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>zubr-byk-z-boku.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/zubr-byk-z-boku.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>961</width>
+		<height>659</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>58</ymin>
+			<xmax>926</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

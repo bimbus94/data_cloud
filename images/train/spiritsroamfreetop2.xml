@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>spiritsroamfreetop2.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/spiritsroamfreetop2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>40</ymin>
+			<xmax>408</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

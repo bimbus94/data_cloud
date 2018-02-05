@@ -1,0 +1,10 @@
+#jupyter in AWS tut: https://towardsdatascience.com/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5
+#in aws session
+jupyter notebook --no-browser --port=8888
+
+#open new session ctrl alt t and put
+ssh -i xxxx.pem -L 8000:localhost:8888 ubuntu@xxxxxxx
+
+#copy link from console to browser (change port to 8000) in link
+
+

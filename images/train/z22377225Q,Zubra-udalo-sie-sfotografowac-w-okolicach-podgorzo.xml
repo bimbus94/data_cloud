@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>z22377225Q,Zubra-udalo-sie-sfotografowac-w-okolicach-podgorzo.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/z22377225Q,Zubra-udalo-sie-sfotografowac-w-okolicach-podgorzo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>129</ymin>
+			<xmax>469</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

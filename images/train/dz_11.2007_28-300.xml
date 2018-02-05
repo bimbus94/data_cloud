@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>dz_11.2007_28-300.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/dz_11.2007_28-300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>300</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

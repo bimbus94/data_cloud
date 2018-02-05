@@ -1,0 +1,28 @@
+instalacja pafy
+pip install -i https://pypi.anaconda.org/pypi/simple pafy
+
+
+conda config --add channels conda-forge
+conda install gstreamer
+
+
+conda install -c menpo ffmpeg
+conda install -c menpo opencv3
+
+import logging
+logging.getLogger().setLevel(logging.ERROR)
+import cv2, pafy
+
+url = "https://www.youtube.com/watch?v=aKX8uaoy9c8"
+videoPafy = pafy.new(url)
+
+
+
+
+best = videoPafy.getbest(preftype="mp4")
+
+video=cv2.VideoCapture(best.url)
+
+
+video=cv2.VideoCapture("https://r3---sn-u2oxu-f5f6.googlevideo.com/videoplayback?lmt=1507711024382297&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&ipbits=0&initcwndbps=968750&source=youtube&ei=Kv1gWuuWHs2pyQXVh5iwAQ&requiressl=yes&ratebypass=yes&clen=60311621&dur=0.000&mime=video%2Fwebm&key=yt6&expire=1516327306&gir=yes&mn=sn-u2oxu-f5f6&mm=31&ip=194.29.137.2&pl=21&itag=43&mv=m&mt=1516305626&ms=au&signature=42B64C14EEC511F8DBAC74B0C7B408DC23553FB9.12560489164681E930B6F403164E94B7CF16DE5D&id=o-ADdhg55xJKQEY2jJ9QJR_CpWXAztfU-Fez6WuexMHzlG")
+

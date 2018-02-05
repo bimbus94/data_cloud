@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>fot.-curt-strohmeyer-der-wilde-wisent-koschtan-tau.-berlin-deutscher-verlag-1939.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/fot.-curt-strohmeyer-der-wilde-wisent-koschtan-tau.-berlin-deutscher-verlag-1939.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>571</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>41</ymin>
+			<xmax>528</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>153542zubr_knyszynska_puszcza.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/153542zubr_knyszynska_puszcza.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>135</ymin>
+			<xmax>898</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

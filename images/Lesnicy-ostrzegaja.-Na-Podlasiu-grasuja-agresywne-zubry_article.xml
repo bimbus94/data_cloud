@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zubry</folder>
+	<filename>Lesnicy-ostrzegaja.-Na-Podlasiu-grasuja-agresywne-zubry_article.jpg</filename>
+	<path>/home/bambus49/Desktop/zubry/Lesnicy-ostrzegaja.-Na-Podlasiu-grasuja-agresywne-zubry_article.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zubr</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>38</ymin>
+			<xmax>721</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>
